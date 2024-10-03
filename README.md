@@ -11,6 +11,7 @@ Aquí se realizan las practicas en Django que es un Framework Marco de Trabajo U
 - 9 Actualizar pip --> python -m pip install --upgrade pip
 - 10 Instalar Framework Django --> python -m pip install django
 - 11 Crear el proyecto en python en Django --> django-admin startproject web_project .
-- 12 Ejecutar el servidor --> http://127.0.0.1:8000/
-- 13 Realizar migracion --> python manage.py migrate
-- 14 Volver a ejecutar servidor
+- 12 Escribir --> python manage.py runserver
+- 13 Ejecutar el servidor --> http://127.0.0.1:8000/
+- 14 Realizar migracion --> python manage.py migrate
+- 15 Volver a ejecutar servidor
