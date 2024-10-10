@@ -15,3 +15,5 @@ Aquí se realizan las practicas en Django que es un Framework Marco de Trabajo U
 - 13 Ejecutar el servidor --> http://127.0.0.1:8000/
 - 14 Realizar migracion --> python manage.py migrate
 - 15 Volver a ejecutar servidor
+
+--![image](https://github.com/user-attachments/assets/d24deb0c-35f9-4c2d-96c6-efa226d62120)
