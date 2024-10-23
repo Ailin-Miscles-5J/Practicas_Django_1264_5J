@@ -4,7 +4,7 @@ Aquí se realizan las practicas en Django que es un Framework Marco de Trabajo U
 - 2 abrir carpeta con Visual Studio Code
 - 3 Link de referencia --> https://code.visualstudio.com/docs/python/tutorial-django
 - 4 Abrir terminal en Visual Studio Code 
-- 5 Verificar que este instalado Python  --> Python -- version
+- 5 Verificar que este instalado Python  --> Python --version
 - 6 Crear entorno virtual --> py -3 -m venv .venv
 - 7 Activar entorno virtual --> .venv\scripts\activate.bat
 - 8 Seleccionar interprete de Python --> presione F1
